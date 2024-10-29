@@ -10,3 +10,8 @@ $ open /var/folders/cb/v27m749d0sj89h9ydfq0f0940000gn/T/3741143755.html
 ```
 
 ![example.png](example.png)
+
+References
+
+- https://pkg.go.dev/github.com/anishathalye/porcupine
+- https://github.com/pingcap/chaos/blob/master/db/tidb/bank.go
